@@ -8736,6 +8736,16 @@ sonic-boom@^3.0.0, sonic-boom@^3.1.0:
   dependencies:
     atomic-sleep "^1.0.0"
 
+sonner-js@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/sonner-js/-/sonner-js-0.0.3.tgz#0513d66f5d924da74a42467fb1c093842126e72f"
+  integrity sha512-V98JyKtM0XEcm7uFpOYbO2n8fepU+fxvEA2ocK6ic6BXto66h6qh+wTVSTNnFeyofwAticWnTGM1X3cBDQ8taw==
+
+sonner@^1.4.3:
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/sonner/-/sonner-1.4.3.tgz#b0c1cc175a0e9184460911ca9c396daec5311ae9"
+  integrity sha512-SArYlHbkjqRuLiR0iGY2ZSr09oOrxw081ZZkQPfXrs8aZQLIBOLOdzTYxGJB5yIZ7qL56UEPmrX1YqbODwG0Lw==
+
 sooner@^1.1.4:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/sooner/-/sooner-1.1.4.tgz#1c0d390163ab9368b688590feda46ccee6b414dd"
